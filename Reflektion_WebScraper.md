@@ -18,8 +18,15 @@
     dock har jag inte testat. Eftersom man i princip endast handskas med HTML
     så har serverside-tekniker liten inverkan.
 
+    _Efter diskussion_: Man behöver ta hänsyn till ViewState, eventuella klasser
+    som ASP.NET får för sig att ändra på osv...
+
 4.  Jag har lagt in en delay i min `get_html()` så att requests inte skickas
     för tätt till servern.
+
+    _Efter diskussion_: Man ska ta hänsyn till `robots.txt` (om den funnits),
+    och även vara öppen med att man skrapar genom att sätta sin `useragent` till
+    något lämpligt, och hänvisa till sin epost.
 
 5.  Mot förmodan: Att koda i **Python** och en hel del om **Django**. Jag har också lärt
     mig att HTML är ett väldigt löst format som egentligen inte är lämpat att
