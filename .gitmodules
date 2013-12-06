@@ -1,3 +1,6 @@
 [submodule "WebScraper"]
 	path = WebScraper
 	url = git@github.com:alcesleo/WebScraper.git
+[submodule "OptimizeSiteExercise"]
+	path = OptimizeSiteExercise
+	url = git@github.com:alcesleo/OptimizeSiteExercise.git
