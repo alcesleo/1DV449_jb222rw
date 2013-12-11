@@ -44,7 +44,8 @@ snabba (och väldigt korta, i princip bara översättningen) svar tillbaka.
 ### Definitioner
 
 Wikipedia/Wiktionary har gratis API som fungerar utan speciell nyckel, för alla
-deras språk. Om jag har tid har jag också tänkt använda Urban Dictionarys API
+deras språk. De vill dock att man identifierar sig med en User-Agent.
+Om jag har tid har jag också tänkt använda Urban Dictionarys API
 för att ta hand om talspråk och slang, även detta verkar inte ha några speciella
 begränsningar.
 
