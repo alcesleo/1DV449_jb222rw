@@ -29,6 +29,8 @@ för mobilen.
 Det jag vill fokusera på är **mobilanpassning** och **stöd för flera språk**. Jag vill att man ska anknyta de orden man slår upp till andra språk man kan eller vill lära sig, för att minska barriären mellan dem och kanske lära sig ytterligare ett ord på köpet. Det ska också vara möjligt
 att lägga in egna definitioner/exempel.
 
+![Mockup](mockup.jpg)
+
 ## API:er
 
 ### Översättning
